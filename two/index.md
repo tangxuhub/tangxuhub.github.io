@@ -7,5 +7,5 @@ adsads
 ---
 
 > Author: xxxx  
-> URL: https://tangxuhub.github.io/two/  
+> URL: https://tangxuu.gitee.io/blog/two/  
 

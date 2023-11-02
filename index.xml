@@ -1,48 +1,48 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>tangxuhub</title>
-    <link>https://tangxuhub.github.io/</link>
+    <link>https://tangxuu.gitee.io/blog/</link>
     <description>Hugo theme - LoveIt</description>
     <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Nov 2023 19:28:58 &#43;0800</lastBuildDate>
-      <atom:link href="https://tangxuhub.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://tangxuu.gitee.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
   <title>Cc</title>
-  <link>https://tangxuhub.github.io/cc/</link>
+  <link>https://tangxuu.gitee.io/blog/cc/</link>
   <pubDate>Thu, 02 Nov 2023 19:28:58 &#43;0800</pubDate>
   <author>xxxx</author>
-  <guid>https://tangxuhub.github.io/cc/</guid>
+  <guid>https://tangxuu.gitee.io/blog/cc/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>Test</title>
-  <link>https://tangxuhub.github.io/test/</link>
+  <link>https://tangxuu.gitee.io/blog/test/</link>
   <pubDate>Wed, 01 Nov 2023 13:36:08 &#43;0800</pubDate>
   <author>xxxx</author>
-  <guid>https://tangxuhub.github.io/test/</guid>
+  <guid>https://tangxuu.gitee.io/blog/test/</guid>
   <description><![CDATA[]]></description>
 </item>
 <item>
   <title>About</title>
-  <link>https://tangxuhub.github.io/about/</link>
+  <link>https://tangxuu.gitee.io/blog/about/</link>
   <pubDate>Wed, 01 Nov 2023 09:56:48 &#43;0800</pubDate>
   <author>xxxx</author>
-  <guid>https://tangxuhub.github.io/about/</guid>
+  <guid>https://tangxuu.gitee.io/blog/about/</guid>
   <description><![CDATA[ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 asdsadubjkb qweqw eqw e wq eqw eq we wq e q we qw e qw e qw e ]]></description>
 </item>
 <item>
   <title>Bb</title>
-  <link>https://tangxuhub.github.io/bb/</link>
+  <link>https://tangxuu.gitee.io/blog/bb/</link>
   <pubDate>Wed, 01 Nov 2023 09:56:48 &#43;0800</pubDate>
   <author>xxxx</author>
-  <guid>https://tangxuhub.github.io/bb/</guid>
+  <guid>https://tangxuu.gitee.io/blog/bb/</guid>
   <description><![CDATA[ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 asdsadubjkb qweqw eqw e wq eqw eq we wq e q we qw e qw e qw e ]]></description>
 </item>
 <item>
   <title>First_post</title>
-  <link>https://tangxuhub.github.io/first_post/</link>
+  <link>https://tangxuu.gitee.io/blog/first_post/</link>
   <pubDate>Wed, 01 Nov 2023 09:56:48 &#43;0800</pubDate>
   <author>xxxx</author>
-  <guid>https://tangxuhub.github.io/first_post/</guid>
+  <guid>https://tangxuu.gitee.io/blog/first_post/</guid>
   <description><![CDATA[ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 asdsadubjkb qweqw eqw e wq eqw eq we wq e q we qw e qw e qw e ]]></description>
 </item>
 </channel>

@@ -25,5 +25,5 @@ e
 ---
 
 > Author: xxxx  
-> URL: https://tangxuhub.github.io/first_post/  
+> URL: https://tangxuu.gitee.io/blog/first_post/  
 
