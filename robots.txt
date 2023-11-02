@@ -65,4 +65,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://tangxuhub.github.io/sitemap.xml
+Sitemap: http://tangxuhub.github.io/sitemap.xml

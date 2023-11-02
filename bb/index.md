@@ -25,5 +25,5 @@ e
 ---
 
 > Author: xxxx  
-> URL: https://tangxuhub.github.io/bb/  
+> URL: http://tangxuhub.github.io/bb/  
 
