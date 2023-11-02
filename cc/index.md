@@ -7,5 +7,5 @@
 ---
 
 > Author: <no value>  
-> URL: https://tangxuu.gitee.io/blog/cc/  
+> URL: https://tangxuhub.github.io/cc/  
 
