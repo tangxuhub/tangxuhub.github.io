@@ -2,33 +2,33 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   ><url>
-      <loc>https://example.com/</loc><lastmod>2023-11-02T15:58:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+      <loc>http://tangxuu.gitee.io/blog/</loc><lastmod>2023-11-02T15:58:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
             rel="alternate"
             hreflang="zh-cn"
-            href="https://example.com/zh-cn/"
+            href="http://tangxuu.gitee.io/blog/zh-cn/"
             /><xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://example.com/"
+          href="http://tangxuu.gitee.io/blog/"
           /></url><url>
-      <loc>https://example.com/posts/</loc><lastmod>2023-11-02T15:58:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://example.com/test/</loc><lastmod>2023-11-01T13:36:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://example.com/first_post/</loc><lastmod>2023-11-02T15:58:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-      <loc>https://example.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+      <loc>http://tangxuu.gitee.io/blog/posts/</loc><lastmod>2023-11-02T15:58:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://tangxuu.gitee.io/blog/test/</loc><lastmod>2023-11-01T13:36:08&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://tangxuu.gitee.io/blog/first_post/</loc><lastmod>2023-11-02T15:58:38&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+      <loc>http://tangxuu.gitee.io/blog/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
             rel="alternate"
             hreflang="zh-cn"
-            href="https://example.com/zh-cn/categories/"
+            href="http://tangxuu.gitee.io/blog/zh-cn/categories/"
             /><xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://example.com/categories/"
+          href="http://tangxuu.gitee.io/blog/categories/"
           /></url><url>
-      <loc>https://example.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+      <loc>http://tangxuu.gitee.io/blog/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
             rel="alternate"
             hreflang="zh-cn"
-            href="https://example.com/zh-cn/tags/"
+            href="http://tangxuu.gitee.io/blog/zh-cn/tags/"
             /><xhtml:link
           rel="alternate"
           hreflang="en"
-          href="https://example.com/tags/"
+          href="http://tangxuu.gitee.io/blog/tags/"
           /></url></urlset>

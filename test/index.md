@@ -6,5 +6,5 @@
 ---
 
 > Author: xxxx  
-> URL: https://example.com/test/  
+> URL: http://tangxuu.gitee.io/blog/test/  
 

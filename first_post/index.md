@@ -25,5 +25,5 @@ e
 ---
 
 > Author: xxxx  
-> URL: https://example.com/first_post/  
+> URL: http://tangxuu.gitee.io/blog/first_post/  
 
